@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/project_lifeline_landing_page.html"
+    }
+  ]
+}
